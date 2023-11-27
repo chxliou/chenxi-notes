@@ -1,5 +1,6 @@
 ### The Union Bound
 ![image.png](https://raw.githubusercontent.com/chxliou/chenxi-notes/main/utils/202311271218599.png)
+
 This question is designed to show one property of **Union Bound**: the union bound is relatively tight when events are independent, and the probability is small.
 
 **Proving Union Bound** To make an additive decomposition, we need to separate $E_1 \cup \cdots \cup E_m$ into disjoint parts. Let $B_i= \cap_{j<i}{E_j^c}$  be the event that none of the first $i-1$ events occur. 
@@ -40,6 +41,7 @@ This assumption is necessary to apply the Chernoff bound.
 
 **The Realizability Assumption** There exists $f \in \mathcal{C}$ s.t.  $\text { err } _ { D } ( f ) =0.$ 
 Otherwise, no learner can produce a valid function (if $\mathcal{C}$ is a finite set).
+
 ![image.png](https://raw.githubusercontent.com/chxliou/chenxi-notes/main/utils/202311271218602.png)
 
 **Learning Decision List** Define a map: $g: A \mapsto \{ (j,a,b):\forall k \in A, (X_{kj}=a)\implies (Y_k=b)\}.$ We initiate $A_1:=[n]$ and randomly pick one element in $g(A_1)$ as $(i_1, a_1, b_1).$ We update $A_2:=A_1\setminus \{k: X_{ki_1}=a_1\},$ then randomly pick one element in $g(A_2)$ as $(i_2, a_2, b_2)$ with the constraint that $i_2$ is not occupied before. After $d$ iterations, the left examples have only one choice for their values; therefore, they share the same label value. Take that value as $b_{d+1}.$ As a result, the training error can always be reduced to 0 with this algorithm. In addition, since the total number of candidate functions is finite, the decision list is PAC learnable because we can apply the uniform convergence result to this setting.
