@@ -1,4 +1,7 @@
 {
-  "attachmentFolderPath": "./utils",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "root",
+  "useMarkdownLinks": true
 }
