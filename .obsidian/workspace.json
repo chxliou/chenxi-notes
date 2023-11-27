@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
+                "file": "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
+                "file": "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
+                "file": "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md"
+                "file": "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md"
               }
             }
           }
@@ -148,18 +148,25 @@
   },
   "active": "047f11b3b476be13",
   "lastOpenFiles": [
-    "utils/pac-def.png",
     "Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
+    "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/README.md",
+    "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence/image-20231127123040313.png",
+    "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence",
+    "docs/Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence.md",
+    "docs/Mathematical_Analysis_of_Machine Learning_Algorithms",
+    "docs/README.md",
+    "docs/index.html",
+    "docs",
+    "utils/image-20231127123040313.png",
+    "Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence/image-20231127123040313.png",
+    "Mathematical_Analysis_of_Machine Learning_Algorithms/Notes_1_Uniform_Convergence",
+    "utils/pac-def.png",
     "utils/dec-list.png",
     "202311271218239.png",
     "202311271218238.png",
     "202311271218237.png",
     "202311271215870.png",
     "202311271215868.png",
-    "utils/202311271218602.png",
-    "utils/202311271218601.png",
-    "utils/202311271218599.png",
-    "Mathematical_Analysis_of_Machine Learning_Algorithms/utils/Pasted image 20231127115444.png",
     "utils/dec-list.png.crdownload",
     "utils/pac-def.png.crdownload",
     "Pasted image 20231127112112.png.md",
