@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4d233eb8a281e378",
+        "id": "6ad327d542195281",
         "type": "tabs",
         "children": [
           {
-            "id": "62b981590f59c93a",
+            "id": "047f11b3b476be13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Analysis of Machine Learning Algorithms/Notes 1. Uniform Convergence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematical Analysis of Machine Learning Algorithms/Notes 1. Uniform Convergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematical Analysis of Machine Learning Algorithms/Notes 1. Uniform Convergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematical Analysis of Machine Learning Algorithms/Notes 1. Uniform Convergence.md"
+              }
             }
           }
         ]
@@ -138,6 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62b981590f59c93a",
-  "lastOpenFiles": []
+  "active": "047f11b3b476be13",
+  "lastOpenFiles": [
+    "utils/Pasted image 20231127112212.png",
+    "Pasted image 20231127112112.png.md",
+    "Mathematical Analysis of Machine Learning Algorithms/Notes 1. Uniform Convergence.md",
+    "utils",
+    "Pasted image 20231127112112.png",
+    "Pasted image 20231127111755.png",
+    "Pasted image 20231127111311.png",
+    "().md",
+    "Mathematical Analysis of Machine Learning Algorithms/未确认 919637.crdownload",
+    "Mathematical Analysis of Machine Learning Algorithms"
+  ]
 }
